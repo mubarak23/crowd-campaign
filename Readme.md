@@ -1,6 +1,3 @@
-@@ -1,2 +1,93 @@
-
-
 # Crowd Campaign DApp
 
 ## Overview
